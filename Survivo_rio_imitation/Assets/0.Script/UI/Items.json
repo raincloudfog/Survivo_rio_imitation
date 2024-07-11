@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "검",
+      "description": [ "양옆으로 공격", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank" :  false
+    },
+    {
+      "id": 2,
+      "name": "수호자",
+      "description": [ "주위를 회전하는 보호막", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 3,
+      "name": "드릴",
+      "description": [ "벽을 튕기는 투사체", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 4,
+      "name": "방어막",
+      "description": [ "방어막 생성", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 5,
+      "name": "미사일",
+      "description": [ "미사일을 여러발 발사", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 6,
+      "name": "화염병",
+      "description": [ "범위를 지속 공격", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 7,
+      "name": "번개",
+      "description": [ "몬스터에게 번개를 떨어트립니다.", "attack2", "attack3" ],
+      "type": "Weapon",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 8,
+      "name": "자석",
+      "description": [ "주변 아이템들을 끌어옵니다. ", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 9,
+      "name": "책",
+      "description": [ "무기 쿨타임을 감소합니다.", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 10,
+      "name": "아령",
+      "description": [ "공격력을 증가합니다.", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 11,
+      "name": "우유",
+      "description": [ "2초당 1회복", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 12,
+      "name": "고기",
+      "description": [ "최대 체력 증가", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 13,
+      "name": "탄창",
+      "description": [ "공격 횟수 증가", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 14,
+      "name": "연료",
+      "description": [ "공격 범위를 증가 시킵니다.", "attack2", "attack3" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+
+    {
+      "id": 15,
+      "name": "골드",
+      "description": [ "골드 획득!" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    },
+    {
+      "id": 16,
+      "name": "회복",
+      "description": [ " 30 회복" ],
+      "type": "Accessory",
+      "lank": 1,
+      "IsFullLank": false
+    }
+  ]
+}
